@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💀 Owner of script hub **GrimWare**
-- 💻 Currently working at **FrostWare**
+- 💻 Currently working at **FluxusZ & Options Hub**
 - 🛠️ Ex-developer at **ReveliX**
 - 🤝 Contributed to **Punk Team, DarkModz & Venox**
 - 🌀 Formerly known as **Blitz**
