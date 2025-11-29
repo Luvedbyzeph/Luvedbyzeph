@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I’m Zeph</h1>
 
 ### 🚀 About Me
-- 💀 Owner of script hub **GrimWare**
-- 💻 Currently working at **FluxusZ & Options Hub**
+- 🌹 Owner of script hub **Rosá Hub**
+- 💻 Currently working at **FluxusZ & PulseTech**
 - 🛠️ Ex-developer at **ReveliX**
 - 🤝 Contributed to **Punk Team, DarkModz & Venox**
 - 🌀 Formerly known as **Blitz**
@@ -27,7 +27,7 @@
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:zeph.sys@gmail.com"><img src="https://img.shields.io/badge/Gmail-zeph.sys%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/><br/>
-  <img src="https://img.shields.io/badge/Discord-Zeph.sys-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-LuvedByZeph-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
